@@ -1,0 +1,2 @@
+C:\Users\jains\source\repos\onlineexamsystem\onlineexamsystem\obj\Debug\onlineexamsystem.csproj.AssemblyReference.cache
+C:\Users\jains\source\repos\onlineexamsystem\onlineexamsystem\obj\Debug\onlineexamsystem.csproj.CoreCompileInputs.cache
